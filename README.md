@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 ![sugar-hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugar-hit&show_icons=true&theme=transparent)
 
 ---
-<div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sugar-hit.sugar-hit" />
-</div>
+
+[English](https://github.com/sugar-hit/sugar-hit/blob/43cf024bc95c6c49b3210015a3d558dee1d5267f/README_EN.md) 
