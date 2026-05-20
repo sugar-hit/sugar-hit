@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![sugar-hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugar-hit&show_icons=true&theme=transparent)
 
+### 📈 Daily Commits Calendar
+![GitHub Contributions Calendar](assets/github-commits-calendar.svg)
+
 ---
 
 [English](https://github.com/sugar-hit/sugar-hit/blob/43cf024bc95c6c49b3210015a3d558dee1d5267f/README_EN.md) 

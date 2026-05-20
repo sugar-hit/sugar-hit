@@ -1,0 +1,41 @@
+name: Generate Commits Calendar SVG
+
+on:
+  schedule:
+    # Run at midnight every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate commits calendar SVG
+        run: python .github/scripts/generate_commits_svg.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add assets/github-commits-calendar.svg
+          git diff --staged --quiet || git commit -m "docs: update commits calendar SVG [skip ci]"
+          git push
