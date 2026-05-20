@@ -24,16 +24,25 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Generate commits calendar SVG
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: python .github/scripts/generate_commits_svg.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add assets/github-commits-calendar.svg
-          git diff --staged --quiet || git commit -m "docs: update commits calendar SVG [skip ci]"
-          git push
+
+          if [ -f "assets/github-commits-calendar.svg" ]; then
+            git add assets/github-commits-calendar.svg
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "docs: update commits calendar SVG [skip ci]"
+              git push
+              echo "SVG updated and pushed"
+            fi
+          else
+            echo "SVG file not generated, skipping commit"
+          fi
