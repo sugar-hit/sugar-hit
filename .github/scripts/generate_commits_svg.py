@@ -122,9 +122,9 @@ def main():
     print("Generating SVG...")
     svg = generate_svg(data)
     
-    # Save to assets directory
-    os.makedirs('/tmp/sugar-hit/assets', exist_ok=True)
-    output_path = '/tmp/sugar-hit/assets/github-commits-calendar.svg'
+    # Save to assets directory (relative path for GitHub Actions)
+    os.makedirs('assets', exist_ok=True)
+    output_path = 'assets/github-commits-calendar.svg'
     with open(output_path, 'w') as f:
         f.write(svg)
     
