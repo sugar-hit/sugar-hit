@@ -16,7 +16,7 @@
   <text x="20" y="94.5" class="mon-label"></text>
   <text x="20" y="108.5" class="mon-label">Fri</text>
   <text x="20" y="122.5" class="mon-label"></text>
-  <text x="30" y="20" class="month-label">May</text>
+  <text x="30" y="20" class="month-label">Jun</text>
   <rect x="30" y="30" class="cell" fill="#161b22" />
   <rect x="30" y="44" class="cell" fill="#161b22" />
   <rect x="30" y="58" class="cell" fill="#161b22" />
@@ -24,7 +24,6 @@
   <rect x="30" y="86" class="cell" fill="#161b22" />
   <rect x="30" y="100" class="cell" fill="#161b22" />
   <rect x="30" y="114" class="cell" fill="#161b22" />
-  <text x="44" y="20" class="month-label">Jun</text>
   <rect x="44" y="30" class="cell" fill="#161b22" />
   <rect x="44" y="44" class="cell" fill="#161b22" />
   <rect x="44" y="58" class="cell" fill="#161b22" />
@@ -53,6 +52,7 @@
   <rect x="86" y="86" class="cell" fill="#161b22" />
   <rect x="86" y="100" class="cell" fill="#161b22" />
   <rect x="86" y="114" class="cell" fill="#161b22" />
+  <text x="100" y="20" class="month-label">Jul</text>
   <rect x="100" y="30" class="cell" fill="#161b22" />
   <rect x="100" y="44" class="cell" fill="#161b22" />
   <rect x="100" y="58" class="cell" fill="#161b22" />
@@ -60,7 +60,6 @@
   <rect x="100" y="86" class="cell" fill="#161b22" />
   <rect x="100" y="100" class="cell" fill="#161b22" />
   <rect x="100" y="114" class="cell" fill="#161b22" />
-  <text x="114" y="20" class="month-label">Jul</text>
   <rect x="114" y="30" class="cell" fill="#161b22" />
   <rect x="114" y="44" class="cell" fill="#161b22" />
   <rect x="114" y="58" class="cell" fill="#161b22" />
@@ -82,6 +81,7 @@
   <rect x="142" y="86" class="cell" fill="#161b22" />
   <rect x="142" y="100" class="cell" fill="#161b22" />
   <rect x="142" y="114" class="cell" fill="#161b22" />
+  <text x="156" y="20" class="month-label">Aug</text>
   <rect x="156" y="30" class="cell" fill="#161b22" />
   <rect x="156" y="44" class="cell" fill="#161b22" />
   <rect x="156" y="58" class="cell" fill="#161b22" />
@@ -89,7 +89,6 @@
   <rect x="156" y="86" class="cell" fill="#161b22" />
   <rect x="156" y="100" class="cell" fill="#161b22" />
   <rect x="156" y="114" class="cell" fill="#161b22" />
-  <text x="170" y="20" class="month-label">Aug</text>
   <rect x="170" y="30" class="cell" fill="#161b22" />
   <rect x="170" y="44" class="cell" fill="#161b22" />
   <rect x="170" y="58" class="cell" fill="#161b22" />
@@ -118,6 +117,7 @@
   <rect x="212" y="86" class="cell" fill="#161b22" />
   <rect x="212" y="100" class="cell" fill="#161b22" />
   <rect x="212" y="114" class="cell" fill="#161b22" />
+  <text x="226" y="20" class="month-label">Sep</text>
   <rect x="226" y="30" class="cell" fill="#161b22" />
   <rect x="226" y="44" class="cell" fill="#161b22" />
   <rect x="226" y="58" class="cell" fill="#161b22" />
@@ -125,7 +125,6 @@
   <rect x="226" y="86" class="cell" fill="#161b22" />
   <rect x="226" y="100" class="cell" fill="#161b22" />
   <rect x="226" y="114" class="cell" fill="#161b22" />
-  <text x="240" y="20" class="month-label">Sep</text>
   <rect x="240" y="30" class="cell" fill="#161b22" />
   <rect x="240" y="44" class="cell" fill="#161b22" />
   <rect x="240" y="58" class="cell" fill="#161b22" />
@@ -147,6 +146,7 @@
   <rect x="268" y="86" class="cell" fill="#161b22" />
   <rect x="268" y="100" class="cell" fill="#161b22" />
   <rect x="268" y="114" class="cell" fill="#161b22" />
+  <text x="282" y="20" class="month-label">Oct</text>
   <rect x="282" y="30" class="cell" fill="#161b22" />
   <rect x="282" y="44" class="cell" fill="#161b22" />
   <rect x="282" y="58" class="cell" fill="#161b22" />
@@ -154,7 +154,6 @@
   <rect x="282" y="86" class="cell" fill="#161b22" />
   <rect x="282" y="100" class="cell" fill="#161b22" />
   <rect x="282" y="114" class="cell" fill="#161b22" />
-  <text x="296" y="20" class="month-label">Oct</text>
   <rect x="296" y="30" class="cell" fill="#161b22" />
   <rect x="296" y="44" class="cell" fill="#161b22" />
   <rect x="296" y="58" class="cell" fill="#161b22" />
@@ -176,6 +175,7 @@
   <rect x="324" y="86" class="cell" fill="#161b22" />
   <rect x="324" y="100" class="cell" fill="#161b22" />
   <rect x="324" y="114" class="cell" fill="#161b22" />
+  <text x="338" y="20" class="month-label">Nov</text>
   <rect x="338" y="30" class="cell" fill="#161b22" />
   <rect x="338" y="44" class="cell" fill="#161b22" />
   <rect x="338" y="58" class="cell" fill="#161b22" />
@@ -183,7 +183,6 @@
   <rect x="338" y="86" class="cell" fill="#161b22" />
   <rect x="338" y="100" class="cell" fill="#161b22" />
   <rect x="338" y="114" class="cell" fill="#161b22" />
-  <text x="352" y="20" class="month-label">Nov</text>
   <rect x="352" y="30" class="cell" fill="#161b22" />
   <rect x="352" y="44" class="cell" fill="#161b22" />
   <rect x="352" y="58" class="cell" fill="#161b22" />
@@ -212,6 +211,7 @@
   <rect x="394" y="86" class="cell" fill="#161b22" />
   <rect x="394" y="100" class="cell" fill="#161b22" />
   <rect x="394" y="114" class="cell" fill="#161b22" />
+  <text x="408" y="20" class="month-label">Dec</text>
   <rect x="408" y="30" class="cell" fill="#161b22" />
   <rect x="408" y="44" class="cell" fill="#161b22" />
   <rect x="408" y="58" class="cell" fill="#161b22" />
@@ -219,7 +219,6 @@
   <rect x="408" y="86" class="cell" fill="#161b22" />
   <rect x="408" y="100" class="cell" fill="#161b22" />
   <rect x="408" y="114" class="cell" fill="#161b22" />
-  <text x="422" y="20" class="month-label">Dec</text>
   <rect x="422" y="30" class="cell" fill="#161b22" />
   <rect x="422" y="44" class="cell" fill="#161b22" />
   <rect x="422" y="58" class="cell" fill="#161b22" />
@@ -241,6 +240,7 @@
   <rect x="450" y="86" class="cell" fill="#161b22" />
   <rect x="450" y="100" class="cell" fill="#161b22" />
   <rect x="450" y="114" class="cell" fill="#161b22" />
+  <text x="464" y="20" class="month-label">Jan</text>
   <rect x="464" y="30" class="cell" fill="#161b22" />
   <rect x="464" y="44" class="cell" fill="#161b22" />
   <rect x="464" y="58" class="cell" fill="#161b22" />
@@ -248,7 +248,6 @@
   <rect x="464" y="86" class="cell" fill="#161b22" />
   <rect x="464" y="100" class="cell" fill="#161b22" />
   <rect x="464" y="114" class="cell" fill="#161b22" />
-  <text x="478" y="20" class="month-label">Jan</text>
   <rect x="478" y="30" class="cell" fill="#161b22" />
   <rect x="478" y="44" class="cell" fill="#161b22" />
   <rect x="478" y="58" class="cell" fill="#161b22" />
@@ -270,6 +269,7 @@
   <rect x="506" y="86" class="cell" fill="#161b22" />
   <rect x="506" y="100" class="cell" fill="#161b22" />
   <rect x="506" y="114" class="cell" fill="#161b22" />
+  <text x="520" y="20" class="month-label">Feb</text>
   <rect x="520" y="30" class="cell" fill="#161b22" />
   <rect x="520" y="44" class="cell" fill="#161b22" />
   <rect x="520" y="58" class="cell" fill="#161b22" />
@@ -277,7 +277,6 @@
   <rect x="520" y="86" class="cell" fill="#161b22" />
   <rect x="520" y="100" class="cell" fill="#161b22" />
   <rect x="520" y="114" class="cell" fill="#161b22" />
-  <text x="534" y="20" class="month-label">Feb</text>
   <rect x="534" y="30" class="cell" fill="#161b22" />
   <rect x="534" y="44" class="cell" fill="#161b22" />
   <rect x="534" y="58" class="cell" fill="#161b22" />
@@ -299,6 +298,7 @@
   <rect x="562" y="86" class="cell" fill="#161b22" />
   <rect x="562" y="100" class="cell" fill="#161b22" />
   <rect x="562" y="114" class="cell" fill="#161b22" />
+  <text x="576" y="20" class="month-label">Mar</text>
   <rect x="576" y="30" class="cell" fill="#161b22" />
   <rect x="576" y="44" class="cell" fill="#161b22" />
   <rect x="576" y="58" class="cell" fill="#161b22" />
@@ -306,7 +306,6 @@
   <rect x="576" y="86" class="cell" fill="#161b22" />
   <rect x="576" y="100" class="cell" fill="#161b22" />
   <rect x="576" y="114" class="cell" fill="#161b22" />
-  <text x="590" y="20" class="month-label">Mar</text>
   <rect x="590" y="30" class="cell" fill="#161b22" />
   <rect x="590" y="44" class="cell" fill="#161b22" />
   <rect x="590" y="58" class="cell" fill="#161b22" />
@@ -335,6 +334,7 @@
   <rect x="632" y="86" class="cell" fill="#161b22" />
   <rect x="632" y="100" class="cell" fill="#161b22" />
   <rect x="632" y="114" class="cell" fill="#161b22" />
+  <text x="646" y="20" class="month-label">Apr</text>
   <rect x="646" y="30" class="cell" fill="#161b22" />
   <rect x="646" y="44" class="cell" fill="#161b22" />
   <rect x="646" y="58" class="cell" fill="#161b22" />
@@ -342,7 +342,6 @@
   <rect x="646" y="86" class="cell" fill="#161b22" />
   <rect x="646" y="100" class="cell" fill="#161b22" />
   <rect x="646" y="114" class="cell" fill="#161b22" />
-  <text x="660" y="20" class="month-label">Apr</text>
   <rect x="660" y="30" class="cell" fill="#161b22" />
   <rect x="660" y="44" class="cell" fill="#161b22" />
   <rect x="660" y="58" class="cell" fill="#161b22" />
@@ -364,6 +363,7 @@
   <rect x="688" y="86" class="cell" fill="#161b22" />
   <rect x="688" y="100" class="cell" fill="#161b22" />
   <rect x="688" y="114" class="cell" fill="#161b22" />
+  <text x="702" y="20" class="month-label">May</text>
   <rect x="702" y="30" class="cell" fill="#161b22" />
   <rect x="702" y="44" class="cell" fill="#161b22" />
   <rect x="702" y="58" class="cell" fill="#161b22" />
@@ -371,7 +371,6 @@
   <rect x="702" y="86" class="cell" fill="#161b22" />
   <rect x="702" y="100" class="cell" fill="#161b22" />
   <rect x="702" y="114" class="cell" fill="#161b22" />
-  <text x="716" y="20" class="month-label">May</text>
   <rect x="716" y="30" class="cell" fill="#161b22" />
   <rect x="716" y="44" class="cell" fill="#161b22" />
   <rect x="716" y="58" class="cell" fill="#161b22" />
@@ -394,12 +393,6 @@
   <rect x="744" y="100" class="cell" fill="#161b22" />
   <rect x="744" y="114" class="cell" fill="#161b22" />
   <rect x="758" y="30" class="cell" fill="#161b22" />
-  <rect x="758" y="44" class="cell" fill="#161b22" />
-  <rect x="758" y="58" class="cell" fill="#161b22" />
-  <rect x="758" y="72" class="cell" fill="#161b22" />
-  <rect x="758" y="86" class="cell" fill="#161b22" />
-  <rect x="758" y="100" class="cell" fill="#161b22" />
-  <rect x="758" y="114" class="cell" fill="#161b22" />
 
   <!-- Total contributions -->
   <text x="762" y="123" class="total-count" text-anchor="end">440 contributions</text>
